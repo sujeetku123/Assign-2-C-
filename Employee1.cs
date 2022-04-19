@@ -122,7 +122,7 @@ namespace Assignment2
 			public static void Main(String[] args)
 			{
 
-				Employee1 S = new Employee1(1001, "saekumaar", 20000.0);
+				Employee1 S = new Employee1(1001, "Sujeetkumar", 20000.0);
 				Console.WriteLine(S.calculateGrossSalary());
 			}
 
